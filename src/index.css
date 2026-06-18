@@ -54,7 +54,7 @@
   }
 
   .section-subtitle {
-    @apply text-base-content/60 text-base md:text-lg mb-10 font-light leading-relaxed;
+    @apply text-base-content/70 text-base md:text-lg mb-10 font-light leading-relaxed;
   }
 
   /* Consistent section padding */
